@@ -43,7 +43,7 @@ I built custom websites and web applications for international clients, focusing
 `WordPress` `PHP` `JavaScript` `HTML5` `CSS3` `MySQL` `REST APIs` `Git` `jQuery` `Responsive Design` `E-commerce` `UI/UX`
 
 ---
-## Skills/Tools Used Professionally
+## 🧰 Skills/Tools Used Professionally
 ### Languages & Core Technologies
 [![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)](https://nodejs.org/) [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)](https://www.typescriptlang.org/) [![Golang](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)](https://golang.org/) [![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)](https://www.gnu.org/software/bash/) [![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/) [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML) [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS) [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) ...
 ### Databases & Data Processing
@@ -62,5 +62,5 @@ I built custom websites and web applications for international clients, focusing
 - English
 - Serbian
 ---
-## Connect With Me 📫
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/mark01zlatar) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat&logo=instagram&logoColor=white)](https://instagram.com/mark01zlatar) [![X (Twitter)](https://img.shields.io/badge/X-%23000000.svg?style=flat&logo=x&logoColor=white)](https://twitter.com/mark01zlatar) [![Email](https://img.shields.io/badge/Email-%23D14836.svg?style=flat&logo=gmail&logoColor=white)](mailto:markozlatar01+github@gmail.com)
+## 📫 Connect With Me 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/mark01zlatar) [![X (Twitter)](https://img.shields.io/badge/X-%23000000.svg?style=flat&logo=x&logoColor=white)](https://twitter.com/mark01zlatar) [![Email](https://img.shields.io/badge/Email-%23D14836.svg?style=flat&logo=gmail&logoColor=white)](mailto:markozlatar01+github@gmail.com)
